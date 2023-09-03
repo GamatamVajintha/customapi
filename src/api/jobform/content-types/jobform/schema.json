@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jobforms",
+  "info": {
+    "singularName": "jobform",
+    "pluralName": "jobforms",
+    "displayName": "jobform"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
